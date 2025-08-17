@@ -1,0 +1,12 @@
+# Ignorer Bootstrap
+bootstrap/
+
+# Ignorer images temporaires
+*.tmp
+*.bak
+
+# Ignorer VSCode
+.vscode/
+
+# Ignorer dépendances Node
+node_modules/
